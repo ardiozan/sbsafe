@@ -24,7 +24,12 @@ var xxx=null;
 if(x=="1"){xxx="/2018/01/rutin-ritual-alami-15-menit-ini-dijamin.html"}
 if(x=="2"){xxx="/2018/01/the-7-healthiest-foods-on-planets.html"}
 if(x=="3"){xxx="/2018/01/what-is-health-insurance.html"}
-if(x=="4"){xxx="/2018/01/hard-to-believe-some-consumers-find.html"}a_to_ve[i].href="http://www.saraflink.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="/2018/01/hard-to-believe-some-consumers-find.html"}
+if(x=="5"){xxx="/2018/01/3-top-forex-demo_27.html"}
+if(x=="6"){xxx="/2018/01/best-forex-broker-fx-forex_27.html"}
+if(x=="7"){xxx="/2018/01/5-best-forex-trading-platform-2018_27.html"}
+if(x=="8"){xxx="/2018/01/3-best-forex-trading-strategies-for-get_27.html"}
+if(x=="9"){xxx="/2018/01/7-tips-succes-forex-trading-online_27.html"}a_to_ve[i].href="http://www.saraflink.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
